@@ -65,3 +65,29 @@ main .main-logo{
 main .main-logo img{
     width: 300px;
 }
+
+main .main-imput{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+main .main-imput-container{
+    width: 525px;
+    border-radius: 100px;
+    border: 1px solid #dfe1e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main .main-imput input{
+    width: 450px;
+    height: 40px;
+    border: none;
+    outline: none;
+}
+
+main .main-imput-container:over {
+    box-shadow: 0 1px 6px 0 #20212447;
+}
