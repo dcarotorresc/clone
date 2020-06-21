@@ -94,9 +94,20 @@ main .main-imput-container:hover {
 }
 
 main .main-imput-container .search-icon{
-    background-image: ;
+    background-image:url('https://lh3.googleusercontent.com/proxy/hmYeKyPEzLBmSzUneDhOMOKxlsPtcl2nU8gAOp5fg_KqRosNQjPRRb7-AZ58J3mzPAp6YbNaWPzUxoLpqEUsgP9V4tCw4N-uuv8hyiEQfF8WAEd_4uV2SynrCKNXAfUfbvDE');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 18px;
+    width: 18px;
 }
 
 main .main-imput-container .micro-icon{
-    background-image: ;
+    background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Google_mic.svg/1200px-Google_mic.svg.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
 }
