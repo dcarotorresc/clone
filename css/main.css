@@ -88,6 +88,15 @@ main .main-imput input{
     outline: none;
 }
 
-main .main-imput-container:over {
+main .main-imput-container:hover {
     box-shadow: 0 1px 6px 0 #20212447;
+    border-color: #dfe1e500;
+}
+
+main .main-imput-container .search-icon{
+    background-image: ;
+}
+
+main .main-imput-container .micro-icon{
+    background-image: ;
 }
