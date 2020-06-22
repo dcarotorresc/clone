@@ -137,3 +137,7 @@ main .main-buttons button:hover{
     color: black;
     box-shadow: 1px 1px #d4d4d4;
 }
+
+footer{
+    width: 100%;
+}
