@@ -148,4 +148,25 @@ footer{
     align-items: center;
     font-size: 13px;
     background-color: rgb(242, 242, 242);
+    border-top: solid 1px rgb(228, 228, 228);
+}
+
+footer ul{
+    margin: 10px;
+    list-style: none;
+    display: flex;
+    padding-left: 0;
+}
+
+footer .footer-left{
+    justify-self: left;
+}
+
+footer .footer-right{
+    justify-self: right;
+}
+
+footer ul li a {
+    margin: 10px;
+    color: #5f637d;
 }
